@@ -9,9 +9,9 @@ python -m pip install selenium
 2. Install chrome webdriver for selenium
 
 # How to
-Type following command
+1. Clone the repository.
+2. Type following command. (Here USERNAME, PASSWORD is user's information)
 ```
-python lightoj.py <USERNAME> <PASSWORD>
+python lightoj.py USERNAME PASSWORD
 ```
-here <USERNAME> and <PASSWORD> is user informations needed to carry out the procedure.
-After typing this it will start work automatically. It will take time according to your solve count.
+3. After typing this it will start working automatically. After some time it will put all the accepted submissions under subfolder of 'Solution' folder. 
